@@ -1,0 +1,15 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+  background-color: #f1f5f9;
+}
+
+.header-content {
+  min-width: 90%;
+}
+
+.website-logo {
+  width: 110px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
